@@ -33,9 +33,11 @@ Before you run the application, ensure you have the following installed:
 
 ## Usage Guidelines
 
-Execute the following command in your terminal to launch the application:
+* Execute the following command in your terminal to launch the application:
+   ```bash
+   python eye_navigate_pdf_reader.py
+      
 
-python eye_navigate_pdf_reader.py
 
 Prior to initiating the program, ensure that your webcam is operational and correctly configured to capture video input.
 
