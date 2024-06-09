@@ -150,7 +150,7 @@ while video.isOpened():
 
 
             #eyes_closed = True
-            #pass;
+
         else:#if (ear >= 0.2):
             #open
             eyes_open = True

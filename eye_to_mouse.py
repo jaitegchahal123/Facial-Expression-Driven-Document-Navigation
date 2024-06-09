@@ -2,6 +2,7 @@ import cv2
 import mediapipe as mp
 import pyautogui
 
+#capture eye tracking for mouse movements include iris movement
 
 cam = cv2.VideoCapture(0)
 
