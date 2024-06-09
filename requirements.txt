@@ -1,0 +1,7 @@
+Python
+OpenCV
+Dlib
+Imutils
+PyAutoGUI
+NumPy
+SciPy
